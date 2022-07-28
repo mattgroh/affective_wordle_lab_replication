@@ -8,5 +8,5 @@ In order to reproduce the analysis, follow these steps:
 
 (3) `jupyter notebook`
 
-(4) Navigate to localhost:8888
+(4) Navigate to localhost:8888 in your browser
 
